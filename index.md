@@ -4,3 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+This is were developers at DTU library, team ISYS, can document some of their tasks and adventures!
+
+We maintain the search engine [Findit](http://findit.dtu.dk)

@@ -1,15 +1,26 @@
 ---
 layout: page
-title: About
+title: About DTU
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+The Technical University of Denmark, DTU (Danmarks Tekniske Universitet), is a university in Kongens Lyngby, just north of Copenhagen, Denmark.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+| Key numbers
+|:----------            |---:|
+| ----------            |---:|
+|Academic staff         |2,003|
+|Administrative staff   | 1,540|
+|Students               |11,190|
+|Undergraduates         | 6,803|
+|Doctoral students      | 1,200|
+
+<br />
+
+Read more:
+
+<https://en.wikipedia.org/wiki/Technical_University_of_Denmark>
+
+<http://www.dtu.dk/english/about>
