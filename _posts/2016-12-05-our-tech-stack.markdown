@@ -12,6 +12,8 @@ This is some of the Technologies we use at DTU:
 * ProjectBlacklight
 * Bootstrap
 * Docker
+* RabbitMQ
+* Perl
 
 
 **System admin:**
