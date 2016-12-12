@@ -16,7 +16,7 @@ This is some of the Technologies we use at DTU:
 * Perl
 
 
-**System admin:**
+System admin:
 * Puppet
 * Ansible
 * Nagios
