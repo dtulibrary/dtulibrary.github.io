@@ -11,8 +11,10 @@ We maintain the search engine [Findit](http://findit.dtu.dk)
 
 
 We are working on a project so you can try our complete infrastructure on your own machine!
-The only requirement is that you have Docker installed.
+The only requirement is that you have **Docker** installed.
 
-So far we have created a project which build the FindIt frontend.
+So far we have created a project which builds the Findit frontend, combined of multiple services.
 
 You can download and build it here:
+
+https://github.com/dtulibrary/mother-docker
